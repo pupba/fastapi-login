@@ -1,7 +1,7 @@
 # FastAPI Login Base Code
-
--   FastAPI를 통해 작성된 Login Base Code
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![release: v0.0.1](https://img.shields.io/badge/release-v0.0.1-blue.svg)](https://github.com/pupba/fastapi-login/releases/tag/v0.0.1)<br>
+-   FastAPI를 통해 작성된 Login Base Code 
 ## Requirements
 
 Python: 3.9.0
